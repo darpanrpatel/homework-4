@@ -1,0 +1,28 @@
+HW 4:- SQL
+
+1.	Explain the difference between Left & Right join With sample queries?
+Left join queries show  all the columns & rows from the left side & right side
+Syntax: select * from (table name) Left Join (Table name) on (left table column name= right table column name)
+Right join queries show all the columns & rows from the right side table
+
+
+2.	Find the name of the person who has max salary in a given table?
+SELECT MAX (column Name) FROM (table name)
+
+
+3.	Explain the difference between group by & order by clause
+
+
+4.	Explain the difference between where & having
+
+
+
+5.	Give the syntax of Update query
+UPDATE (COLUMN NAME)
+SET (COLUMN NAME=Value)
+WHERE (COLUMN NAME =Value)
+
+
+
+
+
